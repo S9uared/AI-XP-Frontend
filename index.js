@@ -1,5 +1,5 @@
 
-const URL = "http://localhost:8080/api/namegen"
+const URL = "https://aixpfrontend.azurewebsites.net/api/namegen"
 
 document.getElementById("btn-get-name").addEventListener("click", getName)
 
